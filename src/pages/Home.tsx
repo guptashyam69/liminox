@@ -59,7 +59,7 @@ const Home = () => {
                 icon: Droplets,
                 title: "Real-Time Monitoring",
                 description:
-                  "Track water usage instantly with live data streams and comprehensive analytics.",
+                  "Track water quality and usage instantly with live sensor data and continuous analytics. Stay updated on every change the moment it happens..",
               },
               {
                 icon: BarChart3,

@@ -117,8 +117,7 @@ const Home = () => {
             <CardContent className="p-12 text-center space-y-6">
               <h2 className="text-4xl font-bold">Ready to Get Started?</h2>
               <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-                Join thousands of satisfied customers who are saving water and money with
-                Liminox
+                Experience smarter water management with Liminox. Start your journey today.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center pt-4">
                 <Link to="/contact">

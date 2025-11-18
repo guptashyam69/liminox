@@ -39,7 +39,7 @@ const Navigation = () => {
           <Link to="/" className="flex items-center gap-2 group">
             <div className="bg-primary p-2 rounded-lg group-hover:scale-110 transition-transform">
               {/* <img src="/logo.png" alt="Liminox Logo" className="h-8 w-auto" /> */}
-              <img src="/LIMINOX LOGO.svg" alt="Liminox Logo" width={65} height={30} />
+              <img src="/LIMINOX LOGO.svg" alt="Liminox Logo" width={100} height={40} />
             </div>
 
 

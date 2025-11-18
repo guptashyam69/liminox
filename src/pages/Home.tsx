@@ -18,9 +18,7 @@ const Home = () => {
               </span>
             </h1>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              Monitor, analyze, and optimize your water usage in real-time with Liminox's
-              intelligent monitoring system. Save resources, reduce costs, and protect the
-              environment.
+              Monitor, analyze, and understand your water like never before. Liminox uses intelligent sensors and live analytics to detect impurities, optimize usage, and provide instant quality insights.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center pt-4">
               <Link to="/contact">

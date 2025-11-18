@@ -59,37 +59,37 @@ const Home = () => {
                 icon: Droplets,
                 title: "Real-Time Monitoring",
                 description:
-                  "Track water quality and usage instantly with live sensor data and continuous analytics. Stay updated on every change the moment it happens..",
+                  "Live water insights delivered instantly for complete clarity and control.",
               },
               {
                 icon: BarChart3,
                 title: "Advanced Analytics",
                 description:
-                  "Gain insights with detailed reports, consumption patterns, and predictive analysis.",
+                  "Intelligent data models reveal patterns, predictions, and smarter decisions.",
               },
               {
                 icon: Bell,
                 title: "Smart Alerts",
                 description:
-                  "Receive instant notifications for unusual usage patterns or potential leaks.",
+                  "Instant notifications for anomalies, ensuring you act at the right moment.",
               },
               {
                 icon: Shield,
-                title: "Leak Detection",
+                title: "Water Quality Scoring",
                 description:
-                  "Advanced algorithms detect and alert you to potential leaks before they become costly.",
+                  "A simple, real-time quality score that instantly shows how safe your water is..",
               },
               {
                 icon: Clock,
                 title: "Historical Data",
                 description:
-                  "Access complete historical records to understand trends and optimize usage.",
+                  "Beautifully organized past data to help you track trends effortlessly.",
               },
               {
                 icon: Globe,
                 title: "Remote Access",
                 description:
-                  "Monitor your water systems from anywhere with our cloud-based platform.",
+                  "Secure cloud access so you can manage your system from anywhere.",
               },
             ].map((feature, index) => (
               <Card

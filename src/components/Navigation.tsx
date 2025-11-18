@@ -44,7 +44,7 @@ const Navigation = () => {
 
 
             <span className="text-xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              Liminox
+              
             </span>
           </Link>
 

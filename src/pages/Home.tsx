@@ -134,7 +134,7 @@ const Home = () => {
                     variant="outline"
                     className="border-primary text-primary hover:bg-accent text-lg px-8"
                   >
-                    Try Demo
+                    Sign Up Now !
                   </Button>
                 </Link>
               </div>
